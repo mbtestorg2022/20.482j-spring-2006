@@ -48,7 +48,7 @@ Models of Proteins ([PDF]({{< baseurl >}}/resources/l02))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Discrete Conformational Search (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l03))
+Discrete Conformational Search ([PDF]({{< baseurl >}}/resources/l03))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +57,7 @@ Discrete Conformational Search (![This resource may not render correctly in a sc
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Binding and Docking (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l04))
+Binding and Docking ([PDF]({{< baseurl >}}/resources/l04))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +66,7 @@ Binding and Docking (![This resource may not render correctly in a screen reader
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Molecular Dynamics Simulation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l05))
+Molecular Dynamics Simulation ([PDF]({{< baseurl >}}/resources/l05))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +75,7 @@ Molecular Dynamics Simulation (![This resource may not render correctly in a scr
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Molecular Dynamics and Electrostatics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l06))
+Molecular Dynamics and Electrostatics ([PDF]({{< baseurl >}}/resources/l06))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +84,7 @@ Molecular Dynamics and Electrostatics (![This resource may not render correctly 
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Continuum Electrostatic Modeling I (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l07))
+Continuum Electrostatic Modeling I ([PDF]({{< baseurl >}}/resources/l07))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +93,7 @@ Continuum Electrostatic Modeling I (![This resource may not render correctly in 
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Continuum Electrostatic Modeling II (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l08))
+Continuum Electrostatic Modeling II ([PDF]({{< baseurl >}}/resources/l08))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +102,7 @@ Continuum Electrostatic Modeling II (![This resource may not render correctly in
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Electrostatic Optimization and Design (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l09))
+Electrostatic Optimization and Design ([PDF]({{< baseurl >}}/resources/l09))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +111,7 @@ Electrostatic Optimization and Design (![This resource may not render correctly 
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Electrostatics Modeling (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/l10)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/l10b))
+Electrostatics Modeling ([PDF 1]({{< baseurl >}}/resources/l10)) ([PDF 2]({{< baseurl >}}/resources/l10b))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +120,7 @@ Electrostatics Modeling (![This resource may not render correctly in a screen re
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Statistical Mechanics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l11))
+Statistical Mechanics ([PDF]({{< baseurl >}}/resources/l11))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +135,7 @@ Statistical Mechanics (![This resource may not render correctly in a screen read
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Statistical Mechanics (cont.) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l12))
+Statistical Mechanics (cont.) ([PDF]({{< baseurl >}}/resources/l12))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Statistical Mechanics (cont.) (![This resource may not render correctly in a scr
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Formulating and Simulating Network Models in Biology (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l13))
+Formulating and Simulating Network Models in Biology ([PDF]({{< baseurl >}}/resources/l13))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +153,7 @@ Formulating and Simulating Network Models in Biology (![This resource may not re
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Formulating Models (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l14))
+Formulating Models ([PDF]({{< baseurl >}}/resources/l14))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +162,7 @@ Formulating Models (![This resource may not render correctly in a screen reader.
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Nonlinear Dynamics and Stability (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l15))
+Nonlinear Dynamics and Stability ([PDF]({{< baseurl >}}/resources/l15))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +171,7 @@ Nonlinear Dynamics and Stability (![This resource may not render correctly in a 
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Steady-State Problems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l16))
+Steady-State Problems ([PDF]({{< baseurl >}}/resources/l16))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +180,7 @@ Steady-State Problems (![This resource may not render correctly in a screen read
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Parameter Fitting and Estimation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l17))
+Parameter Fitting and Estimation ([PDF]({{< baseurl >}}/resources/l17))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +189,7 @@ Parameter Fitting and Estimation (![This resource may not render correctly in a 
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Parameter Estimation; Robustness, Fragility, Control (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l18))
+Parameter Estimation; Robustness, Fragility, Control ([PDF]({{< baseurl >}}/resources/l18))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +204,7 @@ Parameter Estimation; Robustness, Fragility, Control (![This resource may not re
 19
 {{< tdclose >}}
 {{< tdopen >}}
-2-D and 3-D Light Microscopy; Image Reconstruction (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l19))
+2-D and 3-D Light Microscopy; Image Reconstruction ([PDF]({{< baseurl >}}/resources/l19))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +213,7 @@ Parameter Estimation; Robustness, Fragility, Control (![This resource may not re
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Deconvolution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l20))
+Deconvolution ([PDF]({{< baseurl >}}/resources/l20))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +222,7 @@ Deconvolution (![This resource may not render correctly in a screen reader.](/im
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Deconvolution II (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l21))
+Deconvolution II ([PDF]({{< baseurl >}}/resources/l21))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +231,7 @@ Deconvolution II (![This resource may not render correctly in a screen reader.](
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Blind Deconvolution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l22))
+Blind Deconvolution ([PDF]({{< baseurl >}}/resources/l22))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +240,7 @@ Blind Deconvolution (![This resource may not render correctly in a screen reader
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Optical Flow (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l23))
+Optical Flow ([PDF]({{< baseurl >}}/resources/l23))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +249,7 @@ Optical Flow (![This resource may not render correctly in a screen reader.](/ima
 24
 {{< tdclose >}}
 {{< tdopen >}}
-High-Throughput Data and its Analysis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l24))
+High-Throughput Data and its Analysis ([PDF]({{< baseurl >}}/resources/l24))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +258,7 @@ High-Throughput Data and its Analysis (![This resource may not render correctly 
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Inference and Statistics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l25))
+Inference and Statistics ([PDF]({{< baseurl >}}/resources/l25))
 {{< tdclose >}}
 
 {{< trclose >}}
