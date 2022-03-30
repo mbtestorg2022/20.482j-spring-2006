@@ -4,6 +4,7 @@ description: This resource includes 2 problems based on Modeling the dynamics of
   trapped ion, and Long-range electrostatic interactions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/4462b948d7637bdc623dbe978bd7a816_ps2.pdf
 file_type: application/pdf
+parent_uid: 7251a79f-cadc-d22c-c7b1-b56858d7fa53
 resourcetype: Document
 title: ps2.pdf
 uid: 4462b948-d763-7bdc-623d-be978bd7a816

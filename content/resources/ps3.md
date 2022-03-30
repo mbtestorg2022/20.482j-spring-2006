@@ -5,6 +5,7 @@ description: This resource includes 3 problem sets based on Ligand-Receptor Coul
   interactions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/563ec7cf051672fbc4625d5f0bf593fa_ps3.pdf
 file_type: application/pdf
+parent_uid: 7251a79f-cadc-d22c-c7b1-b56858d7fa53
 resourcetype: Document
 title: ps3.pdf
 uid: 563ec7cf-0516-72fb-c462-5d5f0bf593fa
